@@ -7,7 +7,7 @@ public class MemberTest {
 		p.phone = 01020003000;
 
 		Customer c = new Customer(1, 1500);
-int a;
+
 		System.out.println(p.toString() + " " + c.toString());
 	}
 }
